@@ -26,11 +26,11 @@ function unityShowBanner(msg, type) {
 }
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/webgl.loader.js";
+var loaderUrl = buildUrl + "/Nueva carpeta.loader.js";
 var config = {
-    dataUrl: buildUrl + "/webgl.data",
-    frameworkUrl: buildUrl + "/webgl.framework.js",
-    codeUrl: buildUrl + "/webgl.wasm",
+    dataUrl: buildUrl + "/Nueva carpeta.data",
+    frameworkUrl: buildUrl + "/Nueva carpeta.framework.js",
+    codeUrl: buildUrl + "/Nueva carpeta.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "HIPSA 3D",
     productName: "MetaVerse",
